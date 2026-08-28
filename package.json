@@ -1,0 +1,30 @@
+{
+  "name": "@mtmediaai/asis-globe",
+  "version": "1.0.0",
+  "description": "Axiom Spatial Intelligence System Globe — MT Media AI sovereign spatial intelligence engine",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "cesium": "^1.116.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "vitest": "^1.0.0",
+    "@cesium/engine": "^1.0.0"
+  },
+  "keywords": [
+    "mtmediaai",
+    "asis",
+    "spatial-intelligence",
+    "cesium",
+    "geospatial",
+    "osint"
+  ],
+  "author": "MT Media AI",
+  "license": "MIT"
+}
