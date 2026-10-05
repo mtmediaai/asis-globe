@@ -1,0 +1,22 @@
+# ASIS Globe (Axiom Spatial Intelligence System): llms.txt
+## 3D Geospatial Intelligence Engine for MT Media AI
+
+## Organization
+- Name: MT Media AI (Modern Touch Media)
+- Canonical URL: https://mtmediaai.com
+- Organization Handle: @mtmediaai
+- Orchestrator: Axiom
+
+## Summary
+ASIS Globe is the 3D geospatial intelligence satellite of MT Media AI. Built on CesiumJS and WebGL, it provides real-time geospatial modeling, territorial corridor defense radar, and citation density mapping for The Invisible Elite across The Woodlands and North Houston luxury corridors.
+
+## Target Audience
+- The Invisible Elite (Estate-Level Service Providers)
+- Luxury Real Estate Brokers (The Market Hub Sun)
+- Custom Home, Pool, Landscape, and Smart Automation Artisans
+
+## Canonical Documents
+- Repository: https://github.com/mtmediaai/asis-globe
+- Apex Platform: https://mtmediaai.com
+- Public Knowledge Base: https://github.com/mtmediaai/mtm-ai
+- ICP Taxonomy: https://github.com/mtmediaai/mtm-ai/blob/main/GLOSSARY.md
